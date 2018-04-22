@@ -1,0 +1,25 @@
+C:\Users\harih\source\repos\Admin Client\Admin Client\bin\Debug\Admin Client.exe.config
+C:\Users\harih\source\repos\Admin Client\Admin Client\bin\Debug\Admin Client.exe.manifest
+C:\Users\harih\source\repos\Admin Client\Admin Client\bin\Debug\Admin Client.application
+C:\Users\harih\source\repos\Admin Client\Admin Client\bin\Debug\Admin Client.exe
+C:\Users\harih\source\repos\Admin Client\Admin Client\bin\Debug\Admin Client.pdb
+C:\Users\harih\source\repos\Admin Client\Admin Client\bin\Debug\Admin Client.xml
+C:\Users\harih\source\repos\Admin Client\Admin Client\obj\Debug\Admin_Client.Advanced_Search.resources
+C:\Users\harih\source\repos\Admin Client\Admin Client\obj\Debug\Admin_Client.Candidate_View.resources
+C:\Users\harih\source\repos\Admin Client\Admin Client\obj\Debug\Admin_Client.db_settings.resources
+C:\Users\harih\source\repos\Admin Client\Admin Client\obj\Debug\Admin_Client.main_activity.resources
+C:\Users\harih\source\repos\Admin Client\Admin Client\obj\Debug\Admin_Client.Resources.resources
+C:\Users\harih\source\repos\Admin Client\Admin Client\obj\Debug\Admin_Client.picklist.resources
+C:\Users\harih\source\repos\Admin Client\Admin Client\obj\Debug\Admin_Client.Portfolio.resources
+C:\Users\harih\source\repos\Admin Client\Admin Client\obj\Debug\Admin_Client.Results.resources
+C:\Users\harih\source\repos\Admin Client\Admin Client\obj\Debug\Admin_Client.Search.resources
+C:\Users\harih\source\repos\Admin Client\Admin Client\obj\Debug\Admin_Client.StudentSearch.resources
+C:\Users\harih\source\repos\Admin Client\Admin Client\obj\Debug\Admin_Client.Table_Settings.resources
+C:\Users\harih\source\repos\Admin Client\Admin Client\obj\Debug\Admin Client.vbproj.GenerateResource.Cache
+C:\Users\harih\source\repos\Admin Client\Admin Client\obj\Debug\Admin Client.vbproj.CoreCompileInputs.cache
+C:\Users\harih\source\repos\Admin Client\Admin Client\obj\Debug\Admin Client.exe.manifest
+C:\Users\harih\source\repos\Admin Client\Admin Client\obj\Debug\Admin Client.application
+C:\Users\harih\source\repos\Admin Client\Admin Client\obj\Debug\Admin Client.exe
+C:\Users\harih\source\repos\Admin Client\Admin Client\obj\Debug\Admin Client.xml
+C:\Users\harih\source\repos\Admin Client\Admin Client\obj\Debug\Admin Client.pdb
+C:\Users\harih\source\repos\Admin Client\Admin Client\obj\Debug\Admin Client.vbprojResolveAssemblyReference.cache
