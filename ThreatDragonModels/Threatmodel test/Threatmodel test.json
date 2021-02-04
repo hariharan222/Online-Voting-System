@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "owner": "Hariharan",
+    "title": "Threatmodel test",
+    "description": "just a test to check if threat model works"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "hariharan"
+  }
+}
